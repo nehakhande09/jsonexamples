@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93" started-at="2020-03-06T17:09:58Z" finished-at="2020-03-06T17:09:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93" started-at="2020-03-06T17:09:58Z" finished-at="2020-03-06T17:09:59Z">
+      <class name="com.jbk.update">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.jbk.update@5f282abb]" name="test01" duration-ms="46" started-at="2020-03-06T17:09:59Z" finished-at="2020-03-06T17:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.jbk.update -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
